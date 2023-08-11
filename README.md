@@ -19,23 +19,23 @@ Lab: 3 - 5PM CST
 
 ## Topics and Schedule:
 
-| Day     | Date      | Topic                              | Homework			
-|-------- |-----------|------------------------------------|-----------------------------------------|
-| Day 01  | Mon. 8/14 | Git and Data Structures            | 	  
-| Day 02  | Tue. 8/15 | Namespace, Classes, and OOP        | HW1 assigned, (due 8/18) 
-| Day 03  | Wed. 8/16 | Errors and Exceptions              | 
-| Day 04  | Thu. 8/17 | Web Scraping and File I/O          | HW2 assigned, (due 8/21) 
-| Day 05  | Fri. 8/18 | APIs                               | Poster Brainstorming over the Weekend
-| Day 06  | Mon. 8/21 | Regular Expressions, Naive Bayes   | HW3 assigned, (due 8/24) 
-| Day 07  | Tue. 8/22 | SQL and Database	               | 
-| Day 08  | Wed. 8/23 | Recursion and Sorting              | 
-| Day 09  | Thu. 8/24 | More on Data Structure             | HW4 assigned, (due 8/27 midnight) 
-| TBD                 | Poster Session                     | 
+| Day     | Date      | Topic                                 | Homework			                    |
+|-------- |-----------|---------------------------------------|-----------------------------------------|
+| Day 01  | Mon. 8/14 | Git and Data Structures               | 	  
+| Day 02  | Tue. 8/15 | Namespace, Classes, and OOP           | HW1 assigned, (due 8/18) 
+| Day 03  | Wed. 8/16 | Errors and Exceptions                 | 
+| Day 04  | Thu. 8/17 | Web Scraping and File I/O             | HW2 assigned, (due 8/21) 
+| Day 05  | Fri. 8/18 | APIs                                  | Poster Brainstorming over the Weekend
+| Day 06  | Mon. 8/21 | Regular Expressions and Naive Bayes   | HW3 assigned, (due 8/24) 
+| Day 07  | Tue. 8/22 | SQL and Database	                  | 
+| Day 08  | Wed. 8/23 | Recursion and Sorting                 | 
+| Day 09  | Thu. 8/24 | More on Data Structure                | HW4 assigned, (due 8/27 midnight) 
+| TBD                 | Poster Session                        | 
 
 ### Homeworks: 
 - There will be 4 homework assignments.
-- All homeworks are due before class.
-- Work together but do NOT copy and paste code
+- All homeworks are due before class, except the last one.
+- Work together but do NOT copy and paste code.
 - Submit your homework on Github. Commit and comment often. 
 - Direct homework questions to Peter (who will be grading your assignments). 
 
@@ -44,7 +44,7 @@ Lab: 3 - 5PM CST
 - Try something on your own or ask a faculty member if they have an idea you can help with. 
 - Poster session to other graduate students and faculty. 
 - Date and time TBD, but will be the first two weeks of the fall semester. 
-- Start EARLY! Make achievable goals. 
+- Start **EARLY!** Make achievable goals. 
 
 
 ## Previous Instructors:
