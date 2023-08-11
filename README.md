@@ -15,7 +15,7 @@ Office Hours available by appointment.
 
 Lecture: 10AM - noon CST
 
-Lab: 3 - 5PM CST
+Lab: 1 - 3PM CST
 
 ## Topics and Schedule:
 
@@ -29,12 +29,12 @@ Lab: 3 - 5PM CST
 | Day 06  | Mon. 8/21 | Regular Expressions and Naive Bayes   | HW3 assigned, (due 8/24) 
 | Day 07  | Tue. 8/22 | SQL and Database	                  | 
 | Day 08  | Wed. 8/23 | Recursion and Sorting                 | 
-| Day 09  | Thu. 8/24 | More on Data Structure                | HW4 assigned, (due 8/27 midnight) 
+| Day 09  | Thu. 8/24 | More on Data Structure                | HW4 assigned, (due 8/28) 
 | TBD                 | Poster Session                        | 
 
 ### Homeworks: 
 - There will be 4 homework assignments.
-- All homeworks are due before class, except the last one.
+- All homeworks are due before class (10AM CST).
 - Work together but do NOT copy and paste code.
 - Submit your homework on Github. Commit and comment often. 
 - Direct homework questions to Peter (who will be grading your assignments). 
