@@ -23,7 +23,7 @@ Lab: 1 - 3PM CST
 |-------- |-----------|---------------------------------------|-----------------------------------------|
 | Day 01  | Mon. 8/14 | Git and Data Structures               | 	  
 | Day 02  | Tue. 8/15 | Namespace, Classes, and OOP           | HW1 assigned, (due 8/18) 
-| Day 03  | Wed. 8/16 | Errors and Exceptions                 | 
+| Day 03  | Wed. 8/16 | Errors Handling                       | 
 | Day 04  | Thu. 8/17 | Web Scraping and File I/O             | HW2 assigned, (due 8/21) 
 | Day 05  | Fri. 8/18 | APIs                                  | Poster Brainstorming over the Weekend
 | Day 06  | Mon. 8/21 | Regular Expressions and Naive Bayes   | HW3 assigned, (due 8/24) 
