@@ -28,9 +28,9 @@ Lab: 1 - 3PM CST
 | Day 05  | Fri. 8/18 | APIs                                  | Poster Brainstorming over the Weekend
 | Day 06  | Mon. 8/21 | Regular Expressions and Naive Bayes   | HW3 assigned, (due 8/24) 
 | Day 07  | Tue. 8/22 | SQL and Database	                  | 
-| Day 08  | Wed. 8/23 | Recursion and Sorting                 | 
-| Day 09  | Thu. 8/24 | More on Data Structure                | HW4 assigned, (due 8/28) 
-| TBD                 | Poster Session                        | 
+| Day 08  | Wed. 8/23 | Complexity, Recursion and Sorting     | HW4 assigned, (due 8/28) 
+| Day 09  | Thu. 8/24 | More on Data Structure                | 
+|         | Fri. 9/08 | Python Poster Presentation            | In Room Seigle 248 
 
 ### Homeworks: 
 - There will be 4 homework assignments.
