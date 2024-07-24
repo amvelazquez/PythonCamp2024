@@ -1,36 +1,37 @@
-# Python Short Course - Summer 2023
+# Python Short Course - Summer 2024
 
 Introduction to Python 3 designed for Ph.D. Students in Political Science (WUSTL)
 
 
-Instructor: Cecilia Y. Sui
+Instructor: Alma Velazquez
 
-Email: c.sui@wustl.edu
+Email: a.m.velazquez@wustl.edu
 
-Teaching Assistant: Peter Bachman
+Teaching Assistant: Masanori Kikuchi
 
-Email: bachman.p@wustl.edu
+Email: m.kikuchi@wustl.edu
 
 Office Hours available by appointment. 
 
-Lecture: 10AM - noon CST
+Lecture: 1PM - TBD CST
 
-Lab: 1 - 3PM CST
+Lab: TBD - 5PM CST
 
 ## Topics and Schedule:
 
 | Day     | Date      | Topic                                 | Homework			                    |
 |-------- |-----------|---------------------------------------|-----------------------------------------|
-| Day 01  | Mon. 8/14 | Git and Data Structures               | 	  
-| Day 02  | Tue. 8/15 | Namespace, Classes, and OOP           | HW1 assigned, (due 8/18) 
-| Day 03  | Wed. 8/16 | Errors Handling                       | 
-| Day 04  | Thu. 8/17 | Web Scraping and File I/O             | HW2 assigned, (due 8/21) 
-| Day 05  | Fri. 8/18 | APIs                                  | Poster Brainstorming over the Weekend
-| Day 06  | Mon. 8/21 | Regular Expressions and Naive Bayes   | HW3 assigned, (due 8/24) 
-| Day 07  | Tue. 8/22 | SQL and Database	                  | 
-| Day 08  | Wed. 8/23 | Complexity, Recursion and Sorting     | HW4 assigned, (due 8/28) 
-| Day 09  | Thu. 8/24 | More on Data Structure                | 
-|         | Fri. 9/08 | Python Poster Presentation            | In Room Seigle 248 
+| Day 01  | Mon. 8/12 | Git and Data Structures               | 	  
+| Day 02  | Tue. 8/13 | Namespace, Classes, and OOP           | HW1 assigned, (due 8/18) 
+| Day 03  | Wed. 8/14 | Error Handling                        | 
+| Day 04  | Thu. 8/15 | Web Scraping and File I/O             | HW2 assigned, (due 8/21) 
+| Day 05  | Fri. 8/16 | APIs                                  | Poster Brainstorming over the Weekend
+| Day 06  | Mon. 8/19 | Regular Expressions and Naive Bayes   | HW3 assigned, (due 8/24) 
+| Day 07  | Tue. 8/20 | SQL and Database	                    | 
+| Day 08  | Wed. 8/21 | Complexity, Recursion and Sorting     | HW4 assigned, (due 8/28) 
+| Day 09  | Thu. 8/22 | More on Data Structures               | 
+| Day 10  | Fri. 8/23 | TBD                                   | In Room Seigle 248 
+|         | TBD       | Python Poster Presentation            | In Room Seigle 248 
 
 ### Homeworks: 
 - There will be 4 homework assignments.
@@ -48,7 +49,7 @@ Lab: 1 - 3PM CST
 
 
 ## Previous Instructors:
-Annamaria Prati (2022), Ben Noble (2021), Patrick Cunha Silva (2020), Ryden Buttler (2019), Erin Rossiter (2018),  Michele Torres (2017), David Carlson (2016), Betül Demirkaya (2015), and Matt Dickenson (2014)
+Cecilia Sui (2023), Annamaria Prati (2022), Ben Noble (2021), Patrick Cunha Silva (2020), Ryden Buttler (2019), Erin Rossiter (2018),  Michele Torres (2017), David Carlson (2016), Betül Demirkaya (2015), and Matt Dickenson (2014)
 
 ## Course Materials:
 Course materials created by Matt Dickeson. Changes over the years made by each instructor, including myself. Prior versions of this course can all be found on GitHub.
