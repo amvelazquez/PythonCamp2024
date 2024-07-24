@@ -30,20 +30,20 @@ Lab: TBD - 5PM CST
 | Day 07  | Tue. 8/20 | SQL and Database	                    | 
 | Day 08  | Wed. 8/21 | Complexity, Recursion and Sorting     | HW4 assigned, (due 8/28) 
 | Day 09  | Thu. 8/22 | More on Data Structures               | 
-| Day 10  | Fri. 8/23 | TBD                                   | In Room Seigle 248 
-|         | TBD       | Python Poster Presentation            | In Room Seigle 248 
+| Day 10  | Fri. 8/23 | TBD                                   | 
+|         | TBD       | Python Poster Presentation            | TBD
 
-### Homeworks: 
+### Homework: 
 - There will be 4 homework assignments.
-- All homeworks are due before class (10AM CST).
+- All homework due before class (10AM CST).
 - Work together but do NOT copy and paste code.
 - Submit your homework on Github. Commit and comment often. 
-- Direct homework questions to Peter (who will be grading your assignments). 
+- Direct homework questions to Masanori (who will be grading your assignments). 
 
 ### Poster Projects: 
 - Show off your python skills with a small project. 
 - Try something on your own or ask a faculty member if they have an idea you can help with. 
-- Poster session to other graduate students and faculty. 
+- Poster session to display work to other graduate students and faculty. 
 - Date and time TBD, but will be the first two weeks of the fall semester. 
 - Start **EARLY!** Make achievable goals. 
 
