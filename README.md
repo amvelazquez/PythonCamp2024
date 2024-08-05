@@ -21,7 +21,7 @@ Lab: 3:30PM - 5PM CST
 
 | Day    | Room            | Date      | Topic                                 | Homework			                    |
 |--------|-----------------|-----------|---------------------------------------|-----------------------------------------|
-| Day 01 | Seigle Hall 208 | Mon. 8/12 | Git and Data Structures               | 	  
+| Day 01 | Seigle Hall 208 | Mon. 8/12 | Data Types, Loops, and Functions               | 	  
 | Day 02 | Seigle Hall 208 | Tue. 8/13 | Namespace, Classes, and OOP           | HW1 assigned, (due TBD) 
 | Day 03 | Seigle Hall 208 | Wed. 8/14 | Error Handling                        | 
 | Day 04 | Seigle Hall 208 | Thu. 8/15 | Web Scraping and File I/O             | HW2 assigned, (due TBD) 
