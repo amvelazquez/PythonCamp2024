@@ -13,29 +13,29 @@ Email: m.kikuchi@wustl.edu
 
 Office Hours available by appointment. 
 
-Lecture: 1PM - TBD CST
+Lecture: 1PM - 3PM CST
 
-Lab: TBD - 5PM CST
+Lab: 3:30PM - 5PM CST
 
 ## Topics and Schedule:
 
-| Day     | Date      | Topic                                 | Homework			                    |
-|-------- |-----------|---------------------------------------|-----------------------------------------|
-| Day 01  | Mon. 8/12 | Git and Data Structures               | 	  
-| Day 02  | Tue. 8/13 | Namespace, Classes, and OOP           | HW1 assigned, (due 8/18) 
-| Day 03  | Wed. 8/14 | Error Handling                        | 
-| Day 04  | Thu. 8/15 | Web Scraping and File I/O             | HW2 assigned, (due 8/21) 
-| Day 05  | Fri. 8/16 | APIs                                  | Poster Brainstorming over the Weekend
-| Day 06  | Mon. 8/19 | Regular Expressions and Naive Bayes   | HW3 assigned, (due 8/24) 
-| Day 07  | Tue. 8/20 | SQL and Database	                    | 
-| Day 08  | Wed. 8/21 | Complexity, Recursion and Sorting     | HW4 assigned, (due 8/28) 
-| Day 09  | Thu. 8/22 | More on Data Structures               | 
-| Day 10  | Fri. 8/23 | TBD                                   | 
-|         | TBD       | Python Poster Presentation            | TBD
+| Day    | Room            | Date      | Topic                                 | Homework			                    |
+|--------|-----------------|-----------|---------------------------------------|-----------------------------------------|
+| Day 01 | Seigle Hall 208 | Mon. 8/12 | Data Types, Loops, and Functions               | 	  
+| Day 02 | Seigle Hall 208 | Tue. 8/13 | Namespace, Classes, and OOP           | HW1 assigned, (due TBD) 
+| Day 03 | Seigle Hall 208 | Wed. 8/14 | Error Handling                        | 
+| Day 04 | Seigle Hall 208 | Thu. 8/15 | Web Scraping and File I/O             | HW2 assigned, (due TBD) 
+| Day 05 | Seigle Hall 210 | Fri. 8/16 | APIs                                  | Poster Brainstorming over the Weekend
+| Day 06 | Simon Hall 017  | Mon. 8/19 | Regular Expressions and Naive Bayes   | HW3 assigned, (due TBD) 
+| Day 07 | Seigle Hall 210 | Tue. 8/20 | SQL and Database	                     | 
+| Day 08 | TBD             | Wed. 8/21 | Complexity, Recursion and Sorting     | HW4 assigned, (due TBD) 
+| Day 09 | Seigle Hall 210 | Thu. 8/22 | More on Data Structures               | 
+| Day 10 | Seigle Hall 210 | Fri. 8/23 | TBD                                   | 
+|        | TBD             | TBD       | Python Poster Presentation            | TBD
 
 ### Homework: 
 - There will be 4 homework assignments.
-- All homework due before class (10AM CST).
+- All homework due before class (1PM CST).
 - Work together but do NOT copy and paste code.
 - Submit your homework on Github. Commit and comment often. 
 - Direct homework questions to Masanori (who will be grading your assignments). 
