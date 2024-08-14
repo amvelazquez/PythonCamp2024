@@ -45,7 +45,7 @@ Lab: 3:30PM - 5PM CST
 - Try something on your own or ask a faculty member if they have an idea you can help with. 
 - Poster session to display work to other graduate students and faculty. 
 - Date and time TBD, but will be the first two weeks of the fall semester. 
-- Start **EARLY!** Make achievable goals. 
+- Start **EARLY**, and make achievable goals. 
 
 
 ## Previous Instructors:
