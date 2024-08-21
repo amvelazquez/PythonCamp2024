@@ -28,7 +28,7 @@ Lab: 3:30PM - 5PM CST
 | Day 05 | Seigle Hall 210 | Fri. 8/16 | APIs                                  | Poster Brainstorming over Weekend
 | Day 06 | Simon Hall 017  | Mon. 8/19 | Regular Expressions and Naive Bayes   | HW3 assigned, (due 8/22) 
 | Day 07 | Seigle Hall 210 | Tue. 8/20 | NumPy & Pandas	                       | 
-| Day 08 | TBD             | Wed. 8/21 | SQL and Database                      |  
+| Day 08 | Seigle Hall 207 | Wed. 8/21 | SQL and Databases                     |  
 | Day 09 | Seigle Hall 210 | Thu. 8/22 | More on Data Structures               | 
 | Day 10 | Seigle Hall 210 | Fri. 8/23 | Complexity, Recursion and Sorting     | HW4 assigned, optional
 |        | TBD             | TBD       | Python Poster Presentation            | TBD
