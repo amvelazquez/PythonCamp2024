@@ -31,7 +31,7 @@ Lab: 3:30PM - 5PM CST
 | Day 08 | Seigle Hall 207 | Wed. 8/21 | SQL and Databases                     |  
 | Day 09 | Seigle Hall 210 | Thu. 8/22 | Binary Tree Structures & Nested JSON  | 
 | Day 10 | Seigle Hall 210 | Fri. 8/23 | Complexity, Recursion and Sorting     | HW4 assigned, optional
-|        | TBD             | Thu. 8/29 | Python Poster Presentation, 10AM-12PM | 
+|        | Seigle Hall 272 | Thu. 8/29 | Python Poster Presentation, 10AM-12PM | 
 
 ### Homework: 
 - There will be 4 homework assignments.
