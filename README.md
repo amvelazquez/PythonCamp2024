@@ -27,11 +27,11 @@ Lab: 3:30PM - 5PM CST
 | Day 04 | Seigle Hall 208 | Thu. 8/15 | Web Scraping and File I/O             | HW2 assigned, (due 8/19)
 | Day 05 | Seigle Hall 210 | Fri. 8/16 | APIs                                  | Poster Brainstorming over Weekend
 | Day 06 | Simon Hall 017  | Mon. 8/19 | Regular Expressions and Naive Bayes   | HW3 assigned, (due 8/22) 
-| Day 07 | Seigle Hall 210 | Tue. 8/20 | NumPy & Pandas	                       | 
+| Day 07 | Seigle Hall 210 | Tue. 8/20 | NumPy, Pandas & Random Forest	       | 
 | Day 08 | Seigle Hall 207 | Wed. 8/21 | SQL and Databases                     |  
-| Day 09 | Seigle Hall 210 | Thu. 8/22 | More on Data Structures               | 
+| Day 09 | Seigle Hall 210 | Thu. 8/22 | Binary Tree Structures & Nested JSON  | 
 | Day 10 | Seigle Hall 210 | Fri. 8/23 | Complexity, Recursion and Sorting     | HW4 assigned, optional
-|        | TBD             | TBD       | Python Poster Presentation            | TBD
+|        | TBD             | Thu. 8/29 | Python Poster Presentation, 10AM-12PM | 
 
 ### Homework: 
 - There will be 4 homework assignments.
@@ -54,3 +54,5 @@ Cecilia Sui (2023), Annamaria Prati (2022), Ben Noble (2021), Patrick Cunha Silv
 ## Course Materials:
 Course materials created by Matt Dickeson. Changes over the years made by each instructor, including myself. Prior versions of this course can all be found on GitHub.
 
+**Note** to regenerate HTML slides, navigate to the appropriate directory and run `jupyter nbconvert dayXX_lecture.ipynb --to slides --post serve`, replacing 'XX' with the number in the lecture filename. 
+* Edit the metadata of each cell to change its slide type.
